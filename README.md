@@ -9,4 +9,6 @@
  - [x] Printing with Cura 🎉
  
   ![Image (2)](https://user-images.githubusercontent.com/22643878/154346118-a817aa02-80bf-4d29-95cc-b29f307b22c6.jpg)
+ Download: https://drive.google.com/drive/folders/1GN6C_WMOFMqygJdqYnXjdA5DB6Z0_qko?usp=sharing
+ 
  
